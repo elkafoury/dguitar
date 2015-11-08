@@ -27,7 +27,6 @@ import dguitar.codecs.midi.MidiOutputStream;
 import dguitar.players.sound.MasterPlayer;
 import dguitar.players.sound.Performance;
 import dguitar.players.sound.midi.MidiFiler;
-
 /**
  * @author crnash
  */
