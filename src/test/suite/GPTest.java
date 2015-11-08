@@ -39,6 +39,7 @@ public class GPTest extends MidiTestCase
     }
     
     // this is just a test for commit
+    // another one
     
     public void _testGP(MidiSongDefinition sd) throws Exception
     {
