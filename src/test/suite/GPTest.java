@@ -37,11 +37,6 @@ public class GPTest extends MidiTestCase
         MidiSongDefinition sd=SongArchive.fourhandsSongDefinition();
         _testGPWithPlayer(sd,540540);
     }
-    
-    // this is just a test for commit
-    // another one
-    // two
-    // thi is done on the server
     public void _testGP(MidiSongDefinition sd) throws Exception
     {
             MidiSongDefinition testFile=SongArchive.testFileSongDefinition();                
