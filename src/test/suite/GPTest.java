@@ -37,6 +37,7 @@ public class GPTest extends MidiTestCase
         MidiSongDefinition sd=SongArchive.fourhandsSongDefinition();
         _testGPWithPlayer(sd,540540);
     }
+    // new comment
     public void _testGP(MidiSongDefinition sd) throws Exception
     {
             MidiSongDefinition testFile=SongArchive.testFileSongDefinition();                
