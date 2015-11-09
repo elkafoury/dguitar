@@ -5,9 +5,7 @@
  */
 
 package dguitar.gui;
-/* change 2  3  4 5 */
-/* here is another change after stash */
-/* change to be stashed in bar file */
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
