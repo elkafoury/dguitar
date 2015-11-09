@@ -23,9 +23,6 @@ public abstract class Bar extends JPanel
 implements OptionsDisplay {
     /**The width increased if the Time Signature is being displayed*/
     public int TS ;
-    // this is a comment 3
-    // another comment 5
-    //  
     /**is this the first bar of a track*/
     protected boolean isFirst ;
     
