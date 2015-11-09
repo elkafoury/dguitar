@@ -6,7 +6,7 @@
 
 package dguitar.gui;
 
-/**
+/** xxxxx
  * This class creates the About window
  * 
  * @author  Mauricio Gracia Gutiérrez

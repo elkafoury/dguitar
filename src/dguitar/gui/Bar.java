@@ -25,6 +25,7 @@ implements OptionsDisplay {
     public int TS ;
     // this is a comment 3
     // another comment 5
+    //  
     /**is this the first bar of a track*/
     protected boolean isFirst ;
     
