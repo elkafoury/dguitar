@@ -5,7 +5,7 @@
  */
 
 package dguitar.gui;
-
+/* thi is a comment for test */
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -17,7 +17,7 @@ import dguitar.codecs.guitarPro.GPMeasure;
 /**
  * This class represents a musicl bar (it contains a musical measure)
  * 
- * @author Mauricio Gracia Gutiérrez
+ * @author Mauricio Gracia GutiÃ©rrez
  */
 public abstract class Bar extends JPanel
 implements OptionsDisplay {
