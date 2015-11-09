@@ -3,7 +3,7 @@
  *
  * Created on 18 de febrero de 2005, 03:42 PM
  */
-
+// here is a change after stash
 package dguitar.gui;
 
 /** 
