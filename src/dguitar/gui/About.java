@@ -5,7 +5,7 @@
  */
 // here is a change after stash
 package dguitar.gui;
-
+/* change to be stashed in about file */
 /** 
  * This class creates the About window
  * 
