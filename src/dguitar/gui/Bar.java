@@ -5,8 +5,7 @@
  */
 
 package dguitar.gui;
-/* thi is a server change*/
-/* thi is a local change */
+/* change on the server */
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
