@@ -18,7 +18,7 @@ import dguitar.codecs.guitarPro.GPMeasure;
  * This class represents a musicl bar (it contains a musical measure)
  * 
  * @author Mauricio Gracia Gutiérrez
- */
+ */  
 public abstract class Bar extends JPanel
 implements OptionsDisplay {
     /**The width increased if the Time Signature is being displayed*/
